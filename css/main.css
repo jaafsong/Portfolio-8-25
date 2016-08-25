@@ -1,14 +1,15 @@
-body {
+body{
   font-family: 'Jaldi', cursive;
   color: #2d3c49;
   background-color: lightseagreen;
 }
+
 .text-thin{
-  font-weight:140;
+  font-weight: 100;
 }
 
 .text-protected{
-  color:#7d97ad;
+  color: #7d97ad;
   font-size: 50px;
 }
 
@@ -16,16 +17,24 @@ body {
   font-size: 70px;
   padding-top: 40px;
 }
+
 .title-medium{
   font-size: 30px;
   padding-bottom: 40px;
 }
 
 .title-logo{
-  margin:35px 10px;
+  margin: 35px 10px;
   padding-top: 15px;
+  float: left;
+  width: 20%;
+  height: 50%;
 }
 
 html{
   background-color: lightcyan;
+}
+
+.width-each{
+  width: 100%;
 }
