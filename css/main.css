@@ -1,0 +1,31 @@
+body {
+  font-family: 'Jaldi', cursive;
+  color: #2d3c49;
+  background-color: lightseagreen;
+}
+.text-thin{
+  font-weight:140;
+}
+
+.text-protected{
+  color:#7d97ad;
+  font-size: 50px;
+}
+
+.title-larger{
+  font-size: 70px;
+  padding-top: 40px;
+}
+.title-medium{
+  font-size: 30px;
+  padding-bottom: 40px;
+}
+
+.title-logo{
+  margin:35px 10px;
+  padding-top: 15px;
+}
+
+html{
+  background-color: lightcyan;
+}
